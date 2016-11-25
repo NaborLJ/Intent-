@@ -2,7 +2,6 @@ package com.example.nlopezjimenez.intent;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.TextView;
 
 public class Main2Activity extends AppCompatActivity {
 
